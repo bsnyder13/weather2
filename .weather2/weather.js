@@ -1,0 +1,1 @@
+export function getWeather(lat, long, timezone)
